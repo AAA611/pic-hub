@@ -9,3 +9,5 @@
   - temp/
 
 请将对应类型的图片放入相应文件夹。
+
+url: https://cdn.jsdelivr.net/gh/AAA611/pic-hub@master/image-hosting/images/posts/Alipay.jp
